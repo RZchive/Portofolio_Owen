@@ -1,0 +1,16 @@
+[0524/173756.257:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0524/173756.258:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0524/173756.269:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0524/173756.273:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0524/173757.412:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (7)
+[0524/173811.428:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0524/173811.454:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0524/182831.652:INFO:CONSOLE(1)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.428f2f82b768906fee79.worker.js (1)
+[0524/182831.655:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (7)
+[0524/182832.208:INFO:CONSOLE(1)] "Another connection wants to delete database 'model-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.428f2f82b768906fee79.worker.js (1)
+[0524/182832.220:INFO:CONSOLE(1)] "Another connection wants to delete database 'fts-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.428f2f82b768906fee79.worker.js (1)
+[0524/182832.220:INFO:CONSOLE(7)] "Dexie.delete('model-storage') was blocked", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (7)
+[0524/182832.437:INFO:CONSOLE(47)] "Uncaught (in promise) NotInitializedError: Initialize storage before attempting to lock tables!", source: https://web.whatsapp.com/app.df22dc4b1b984dc87f36.js (47)
+[0524/182833.452:INFO:CONSOLE(47)] "Uncaught (in promise) NotInitializedError: Initialize storage before attempting to lock tables!", source: https://web.whatsapp.com/app.df22dc4b1b984dc87f36.js (47)
+[0524/182835.009:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0524/182835.009:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
